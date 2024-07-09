@@ -46,7 +46,4 @@ Para sair do programa, selecione a opção "sair".
 
 ![MicrosoftTeams-image (1)](https://github.com/matheus3pires/Atividade-Scrum-ADS1231-Devops/assets/87993331/43dce232-eaf5-47b5-8ab3-5ecc5f262680)
 
-## Minhas Redes
-Fique conectado para mais novidades e atualizações. Não hesite em entrar em contato!
  
-- Linkedin: [linkedin.com/in/matheuspiress](https://www.linkedin.com/in/matheuspiress/)
